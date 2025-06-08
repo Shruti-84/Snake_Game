@@ -11,8 +11,8 @@ This is a simple **Snake Game** built using **Python** and the **Pygame** librar
 
 ## 📸 Screenshot
 
-![Snake Game Screenshot](screenshot.png)  
-*(Add your game screenshot as `screenshot.png` in the repo)*
+![Snake Game Screenshot](screenshot.jpg)  
+
 
 ## 🚀 Getting Started
 
